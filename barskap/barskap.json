@@ -1,0 +1,98 @@
+[
+  {
+    "id": 200,
+    "type": "gin",
+    "name": "Tanqueray Dry London Gin",
+    "url": "https://www.vinmonopolet.no/Land/England/Tanqueray-London-Dry-Gin/p/1201401"
+  },
+  {
+    "id": 300,
+    "type": "rom",
+    "name": "Plantation Rum Grande Reserve Barbados",
+    "url": "https://www.vinmonopolet.no/Land/Barbados/Plantation-Rum-Grande-Reserve-Barbados/p/1918001",
+    "onHand": false
+  },
+  {
+    "id": 400,
+    "type": "tequila",
+    "name": "Patrón Silver",
+    "url": "https://www.vinmonopolet.no/Land/Mexico/Patr%C3%B3n-Silver/p/5949101",
+    "onHand": false
+  },
+  {
+    "id": 500,
+    "type": "vodka",
+    "name": "Smirnoff No21",
+    "url": "https://www.vinmonopolet.no/Land/England/Smirnoff-No-21/p/1206801",
+    "onHand": false
+  },
+  {
+    "id": 600,
+    "type": "whiskey",
+    "name": "Bulleit Kentucky Straight Bourbon",
+    "url": "https://www.vinmonopolet.no/Land/USA/Kentucky/Bulleit-Kentucky-Straight-Bourbon/p/1671101",
+    "onHand": false
+  },
+  {
+    "id": 900,
+    "type": "likor",
+    "name": "Giffard Creme de Mure",
+    "url": "https://www.vinmonopolet.no/Land/Frankrike/Loire/Giffard-Cr%C3%A8me-de-M%C3%BBre/p/7392702",
+    "onHand": false
+  },
+  {
+    "id": 901,
+    "type": "likor",
+    "name": "DiSaronno Amaretto",
+    "url": "https://www.vinmonopolet.no/Land/Italia/DiSaronno-Amaretto/p/4322802",
+    "onHand": false
+  },
+  {
+    "id": 902,
+    "type": "likor",
+    "name": "Cointreau",
+    "url": "https://www.vinmonopolet.no/Land/Frankrike/Cointreau/p/24102",
+    "onHand": false
+  },
+  {
+    "id": 903,
+    "type": "likor",
+    "name": "Angostura",
+    "url": "https://www.vinmonopolet.no/Land/Trinidad-og-Tobago/Angostura-Cocoa-Bitters/p/12373903",
+    "onHand": false
+  },
+  {
+    "id": 1200,
+    "type": "alkoholfri",
+    "name": "Ginish&Tonic",
+    "flavor": "gin",
+    "url":"https://www.vinmonopolet.no/Land/Danmark/Ginish-%26-Tonic/p/12947704",
+    "onHand": false
+  },
+  {
+    "id": 1201,
+    "type": "alkoholfri",
+    "name": "Ish London Botanical Spirit",
+    "flavor": "gin",
+    "url":"https://www.vinmonopolet.no/Land/Danmark/ISH-London-Botanical-Spirit/p/13385002",
+    "onHand": false
+  },
+  {
+    "id": 1300,
+    "type": "alkoholfri",
+    "name": "Ish Caribbean Spicied Spirit",
+    "flavor": "rom",
+    "url":"https://www.vinmonopolet.no/Land/Danmark/Ish-Caribbean-Spiced-Spirit/p/14603502",
+    "onHand": false
+  },
+  {
+    "id": 1301,
+    "type": "alkoholfri",
+    "name": "Rummish",
+    "flavor": "rom",
+    "url":"https://www.vinmonopolet.no/Land/Danmark/Rumish/p/11284202",
+    "onHand": false
+  }
+]
+
+
