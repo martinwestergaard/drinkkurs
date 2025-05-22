@@ -19,7 +19,8 @@ Bulleit Kentucky Straight Bourbon - https://www.vinmonopolet.no/Land/USA/Kentuck
 
 Creme De Mure, Giffard - https://www.vinmonopolet.no/Land/Frankrike/Loire/Giffard-Cr%C3%A8me-de-M%C3%BBre/p/7392702
 <br>DiSaronno Amaretto - https://www.vinmonopolet.no/Land/Italia/DiSaronno-Amaretto/p/4322802
-<br> Angostura Bitter - https://www.vinmonopolet.no/Land/Trinidad-og-Tobago/Angostura-Cocoa-Bitters/p/12373903
+<br>Angostura Bitter - https://www.vinmonopolet.no/Land/Trinidad-og-Tobago/Angostura-Cocoa-Bitters/p/12373903
+<br>Cointreau - https://www.vinmonopolet.no/Land/Frankrike/Cointreau/p/24102
 
 ### Alkoholfritt
 
